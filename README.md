@@ -5,7 +5,7 @@
 + **Telegram:** [@flitenym](https://t.me/flitenym)
 + **E-mail:** [@flitenym@gmail.com](mailto:flitenym@gmail.com)
 
-### Languages and Tools
+### ⚙️ Languages and Tools
  
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
@@ -20,16 +20,12 @@
 | <a href="https://github.com/flitenym/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flitenym&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="flitenym's github stats" /></a> | <a href="https://github.com/flitenym/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flitenym&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-### Top Repositories
+### 📝 Top Repositories
 
-<a href="https://github.com/flitenym/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=flitenym&repo=foundation&theme=buefy" />
+<a href="https://github.com/flitenym/foundation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flitenym&repo=foundation&theme=buefy" />
 </a>
 
-<a href="https://github.com/flitenym">
-  <img align="right" alt="GIF" src="https://github.com/flitenym/flitenym/blob/main/code.gif?raw=true" width="400" height="240" />
-</a>
-
-<a href="https://github.com/flitenym/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=flitenym&repo=Wishs&theme=buefy" />
+<a href="https://github.com/flitenym/Wishs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flitenym&repo=Wishs&theme=buefy" />
 </a>
