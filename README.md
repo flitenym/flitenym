@@ -59,4 +59,4 @@
 
 ### ⚡ Activity
 
-<a href="https://github.com/flitenym/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=flitenym&bg_color=white&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/flitenym/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=flitenym&bg_color=white&color=465058&line=465058&point=465058&hide_border=true" /></a>
