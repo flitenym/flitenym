@@ -2,6 +2,10 @@
 
 <img align="right" alt="GIF" src="https://github.com/flitenym/flitenym/blob/main/code.gif?raw=true" width="480" height="307" />
 
+### ⭐ Open Source Projects
+
+[![platform_info](https://github-readme-stats.vercel.app/api/pin/?username=flitenym&repo=foundation&theme=gotham)](https://github.com/flitenym/foundation)
+
 ### 💼 Tech stack
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
@@ -21,9 +25,6 @@
 + **Telegram:** [@flitenym](https://t.me/flitenym)
 + **E-mail:** [@flitenym@gmail.com](mailto:flitenym@gmail.com)
 
-### ⭐ Open Source Projects
-
-[![platform_info](https://github-readme-stats.vercel.app/api/pin/?username=flitenym&repo=foundation&theme=gotham)](https://github.com/flitenym/foundation)
 
 ### 📈 Scores & Stats
 
