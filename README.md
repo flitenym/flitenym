@@ -1,6 +1,6 @@
 ### flitenym
 
-<img align="right" alt="GIF" src="https://github.com/flitenym/flitenym/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/flitenym/flitenym/blob/main/code.gif?raw=true" width="480" height="307" />
 
 ### 💼 Tech stack
 
