@@ -44,19 +44,15 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 </p>
   
-| <a href="https://github.com/flitenym/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flitenym&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="flitenym's github stats" /></a> | <a href="https://github.com/flitenym/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flitenym&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/flitenym/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flitenym&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="flitenym's github stats" /></a> | <a href="https://github.com/flitenym/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flitenym&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ### 📝 Top Repositories
 
-<a href="https://github.com/flitenym/foundation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flitenym&repo=foundation&theme=buefy" />
-</a>
+| <a href="https://github.com/flitenym/foundation"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flitenym&repo=foundation&theme=vue&hide_border=true" alt="foundation" /></a> | <a href="https://github.com/flitenym/Wishs"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flitenym&repo=Wishs&theme=vue&hide_border=true" alt="foundation" /></a> |
+| ------------- | ------------- |
 
-<a href="https://github.com/flitenym/Wishs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flitenym&repo=Wishs&theme=buefy" />
-</a>
 
 ### ⚡ Activity
 
-<a href="https://github.com/flitenym/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=flitenym&bg_color=white&color=465058&line=465058&point=465058&hide_border=true" /></a>
+<a href="https://github.com/flitenym/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=flitenym&bg_color=white&color=465058&line=48BA87&point=465058&hide_border=true" /></a>
