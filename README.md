@@ -1,5 +1,5 @@
-### flitenym
- 
+<h1 align="center">flitenym</h1>
+
 ### 💬 Contacts
 
 + **Telegram:** [@flitenym](https://t.me/flitenym)
@@ -43,16 +43,20 @@
     <a href="https://github.com/search?q=git"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="https://github.com/search?q=postman"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 </p>
+
+## 📊 Stats
   
 | <a href="https://github.com/flitenym"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flitenym&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="flitenym's github stats" /></a> | <a href="https://github.com/flitenym"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flitenym&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-### 📝 Top Repositories
+## 📝 Top Repositories
 
 | <a href="https://github.com/flitenym/foundation"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flitenym&repo=foundation&theme=vue&hide_border=true" alt="foundation" /></a> | <a href="https://github.com/flitenym/wishs"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flitenym&repo=wishs&theme=vue&hide_border=true" alt="wish" /></a> |
 | ------------- | ------------- |
 
 
-### ⚡ Activity
+## ⚡ Activity
 
 <a href="https://github.com/flitenym"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=flitenym&bg_color=white&color=465058&line=48BA87&point=465058&hide_border=true" /></a>
+
+##
