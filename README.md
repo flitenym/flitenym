@@ -49,7 +49,7 @@
 
 ### 📝 Top Repositories
 
-| <a href="https://github.com/flitenym/foundation"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flitenym&repo=foundation&theme=vue&hide_border=true" alt="foundation" /></a> | <a href="https://github.com/flitenym/Wishs"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flitenym&repo=Wishs&theme=vue&hide_border=true" alt="foundation" /></a> |
+| <a href="https://github.com/flitenym/foundation"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flitenym&repo=foundation&theme=vue&hide_border=true" alt="foundation" /></a> | <a href="https://github.com/flitenym/wishs"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flitenym&repo=wishs&theme=vue&hide_border=true" alt="wish" /></a> |
 | ------------- | ------------- |
 
 
