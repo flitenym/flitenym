@@ -1,5 +1,4 @@
 <h1 align="center">flitenym</h1>
-https://us02web.zoom.us/j/88252444657?pwd=bVZ0eG5kZHhPL3k1OGZZeUxxaElCQT09
 ### 💬 Contacts
 
 + **Telegram:** [@flitenym](https://t.me/flitenym)
