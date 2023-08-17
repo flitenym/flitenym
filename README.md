@@ -1,30 +1,29 @@
-<h1 align="center">flitenym</h1>
+<h1 align="center">flitenym | Dolmatkin Andrey</h1>
 
-### 💬 Contacts
+## 💬 CONTACTS
 
 + **Telegram:** [@flitenym](https://t.me/flitenym)
-+ **E-mail:** [@flitenym@gmail.com](mailto:flitenym@gmail.com)
++ **E-mail:** [flitenym@gmail.com](mailto:flitenym@gmail.com)
 
-## 🛠️ My favorite tools
+## 🛠️ STACK
 
 ### 👨‍💻 Programming languages
 
 <p>
     <a href="https://github.com/search?q=language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-    <a href="https://github.com/search?q=language%3Ajs"><img alt="JS" src="https://custom-icon-badges.herokuapp.com/badge/JS-FF5E8C.svg?logo=javascript&logoColor=white"></a>
+    <a href="https://github.com/search?q=language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=sql&logoColor=white"></a>
+    <a href="https://github.com/search?q=language%3Ats"><img alt="JS" src="https://custom-icon-badges.herokuapp.com/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
     <a href="https://github.com/search?q=language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
     <a href="https://github.com/search?q=language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="https://github.com/search?q=language%3Agolang"><img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=golang&logoColor=white"></a>
 </p>
 
-### 🧰 Frameworks and libraries
+### 🧰 Frameworks
 
 <p>
-    <a href="https://github.com/search?q=wpf"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
-    <a href="https://github.com/search?q=core"><img alt=".Net Core" src="https://img.shields.io/badge/.NET%20Core-5C2D91?logo=.net&logoColor=white"></a>
-    <a href="https://github.com/search?q=material"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
-    <a href="https://github.com/search?q=flutter"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
-    <a href="https://github.com/search?q=git"><img alt="Git Actions" src="https://img.shields.io/badge/Git%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+    <a href="https://github.com/search?q=dotnet"><img alt=".Net Core" src="https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white"></a>
+    <a href="https://github.com/search?q=react"><img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=white"></a>
+    <a href="https://github.com/search?q=flutter"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
@@ -39,25 +38,27 @@
 
 <p>
     <a href="https://github.com/search?q=vs"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
+    <a href="https://github.com/search?q=rider"><img alt="Visual Studio" src="https://img.shields.io/badge/Rider-000000.svg?logo=visual-studio&logoColor=white"></a>
     <a href="https://github.com/search?q=vscode"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
+<p>
     <a href="https://github.com/search?q=git"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://github.com/search?q=postman"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>    
-    <a href="https://github.com/search?q=sourcetree"><img alt="SourceTree" src="https://img.shields.io/badge/SourceTree-0081CB?logo=sourcetree&logoColor=white"></a>
+    <a href="https://github.com/search?q=sourcetree"><img alt="SourceTree" src="https://img.shields.io/badge/SourceTree-0081CB.svg?logo=sourcetree&logoColor=white"></a>
+    <a href="https://github.com/search?q=postman"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?.svglogo=postman&logoColor=white"></a>
+</p>
+<p>
+    <a href="https://github.com/search?q=kafka"><img alt="Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20.svg?logo=kafka&logoColor=white"></a>
+    <a href="https://github.com/search?q=rabbitmq"><img alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?logo=rabbitmq&logoColor=white"></a>
+</p>
+<p>    
+    <a href="https://github.com/search?q=grafana"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-F2F4F9.svg?logo=grafana&logoColor=grey"></a>
+    <a href="https://github.com/search?q=prometheus"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-000000.svg?logo=prometheus&logoColor=grey"></a>
+    <a href="https://github.com/search?q=docker"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0.svg?logo=docker&logoColor=white"></a>
+    <a href="https://github.com/search?q=jira"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?logo=jira&logoColor=white"></a>
+    <a href="https://github.com/search?q=eslint"><img alt="Eslint" src="https://img.shields.io/badge/eslint-3A33D1.svg?logo=eslint&logoColor=white"></a>
 </p>
 
-## 📊 Stats
+## 📟 STATS
   
-| <a href="https://github.com/flitenym"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flitenym&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="flitenym's github stats" /></a> | <a href="https://github.com/flitenym"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flitenym&layout=compact&theme=vue&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-## 📝 Top Repositories
-
-| <a href="https://github.com/flitenym/BinFC"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flitenym&repo=BinFC&theme=vue&hide_border=true" alt="BinFC" /></a> | <a href="https://github.com/flitenym/Binex"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flitenym&repo=Binex&theme=vue&hide_border=true" alt="Binex" /></a> |
-| ------------- | ------------- |
-
-
-## ⚡ Activity
-
-<a href="https://github.com/flitenym"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=flitenym&bg_color=white&color=465058&line=48BA87&point=465058&hide_border=true" /></a>
-
-##
+| <a href="https://github.com/flitenym"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flitenym&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="flitenym's github stats" /></a> |
+| ------------- |
