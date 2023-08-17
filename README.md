@@ -57,8 +57,3 @@
     <a href="https://github.com/search?q=jira"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?logo=jira&logoColor=white"></a>
     <a href="https://github.com/search?q=eslint"><img alt="Eslint" src="https://img.shields.io/badge/eslint-3A33D1.svg?logo=eslint&logoColor=white"></a>
 </p>
-
-## 📟 STATS
-  
-| <a href="https://github.com/flitenym"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flitenym&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="flitenym's github stats" /></a> |
-| ------------- |
