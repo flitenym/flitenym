@@ -7,7 +7,7 @@
 
 ## 🛠️ STACK
 
-### 👨‍💻 Programming languages
+### 👨‍💻 Languages
 
 <p>
     <a href="https://github.com/search?q=language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
@@ -15,7 +15,7 @@
     <a href="https://github.com/search?q=language%3Ats"><img alt="JS" src="https://custom-icon-badges.herokuapp.com/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
     <a href="https://github.com/search?q=language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
     <a href="https://github.com/search?q=language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=language%3Agolang"><img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=golang&logoColor=white"></a>
+    <a href="https://github.com/search?q=language%3Agolang"><img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks
@@ -26,28 +26,28 @@
     <a href="https://github.com/search?q=flutter"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a></a>
 </p>
 
-### 🗄️ Databases and cloud hosting
+### 🗄️ Databases
 
 <p>
-    <a href="https://github.com/search?q=mysql"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+    <a href="https://github.com/search?q=mssql"><img alt="MSSql" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?logo=microsoft%20sql%20server&logoColor=white"></a>
     <a href="https://github.com/search?q=postgresql"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="https://github.com/search?q=sqlite"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
 
-### 💻 Software and tools
+### 💻 Tools
 
 <p>
     <a href="https://github.com/search?q=vs"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
-    <a href="https://github.com/search?q=rider"><img alt="Visual Studio" src="https://img.shields.io/badge/Rider-000000.svg?logo=visual-studio&logoColor=white"></a>
+    <a href="https://github.com/search?q=rider"><img alt="Visual Studio" src="https://img.shields.io/badge/Rider-000000.svg?logo=rider&logoColor=white"></a>
     <a href="https://github.com/search?q=vscode"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 <p>
     <a href="https://github.com/search?q=git"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="https://github.com/search?q=sourcetree"><img alt="SourceTree" src="https://img.shields.io/badge/SourceTree-0081CB.svg?logo=sourcetree&logoColor=white"></a>
-    <a href="https://github.com/search?q=postman"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?.svglogo=postman&logoColor=white"></a>
+    <a href="https://github.com/search?q=postman"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white"></a>
 </p>
 <p>
-    <a href="https://github.com/search?q=kafka"><img alt="Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20.svg?logo=kafka&logoColor=white"></a>
+    <a href="https://github.com/search?q=kafka"><img alt="Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20.svg?logo=apache-kafka&logoColor=white"></a>
     <a href="https://github.com/search?q=rabbitmq"><img alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?logo=rabbitmq&logoColor=white"></a>
 </p>
 <p>    
